@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/chenyue0115/Children/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<iframe src="https://drive.google.com/file/d/1AZE6GEO3czd-X6mqFS-Ttlrb1by2uKvn/preview" width="640" height="480"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
